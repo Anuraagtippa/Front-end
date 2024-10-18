@@ -1,4 +1,0 @@
-Welcome to git project.
-THIS IS A TEXT FILE.
-This is a vi editor.
-Welcome to git project.
